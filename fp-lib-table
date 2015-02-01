@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name MML)(type KiCad)(uri ${KIPRJMOD}/MML.pretty)(options "")(descr ""))
+  (lib (name Resonator)(type KiCad)(uri ${KIPRJMOD}/Resonator.pretty)(options "")(descr ""))
+  (lib (name SI4432_Module)(type KiCad)(uri ${KIPRJMOD}/SI4432_Module.pretty)(options "")(descr ""))
+  (lib (name Pin_Header_1,27mm_1x6)(type KiCad)(uri ${KIPRJMOD}/Pin_Header_1,27mm_1x6.pretty)(options "")(descr ""))
+  (lib (name CSTCE16)(type KiCad)(uri ${KIPRJMOD}/CSTCE16.pretty)(options "")(descr ""))
+)
