@@ -17,7 +17,6 @@
 *.kicad_pcb-bak
 *.gif
 *.ps
-gerber/*
 
 #libre office
 .ods#
