@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-08-05 BZR 5054)-product   date = Di 03 Feb 2015 10:00:50 CET
+Cmp-Mod V01 Created by Cvpcb (2014-08-05 BZR 5054)-product   date = Fr 06 Feb 2015 15:57:46 CET
 
 BeginCmp
 TimeStamp = /54CDC26F;
@@ -92,6 +92,13 @@ IdModule  = Capacitors_SMD:C_0402;
 EndCmp
 
 BeginCmp
+TimeStamp = /54D2A977;
+Reference = C14;
+ValeurCmp = 100µ;
+IdModule  = Capacitors_SMD:C_1210;
+EndCmp
+
+BeginCmp
 TimeStamp = /54CDB520;
 Reference = D1;
 ValeurCmp = DIODESCH;
@@ -134,10 +141,10 @@ IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
 EndCmp
 
 BeginCmp
-TimeStamp = /54CD872B;
+TimeStamp = /54D4D299;
 Reference = P2;
-ValeurCmp = CONN_02X06;
-IdModule  = Pin_Headers:Pin_Header_Angled_2x06;
+ValeurCmp = CONN_02X09;
+IdModule  = Pin_Headers:Pin_Header_Angled_2x09;
 EndCmp
 
 BeginCmp
@@ -214,6 +221,20 @@ BeginCmp
 TimeStamp = /54CD666D;
 Reference = R11;
 ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D4E90D;
+Reference = R101;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D4E94C;
+Reference = R102;
+ValeurCmp = 1k;
 IdModule  = Resistors_SMD:R_0603;
 EndCmp
 

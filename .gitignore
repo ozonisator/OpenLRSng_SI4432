@@ -18,6 +18,9 @@
 *.gif
 *.ps
 
-#libre office
+# libre office
 .ods#
 .directory
+
+# weiterer Kram:
+dtfuhf6ch.jpg
