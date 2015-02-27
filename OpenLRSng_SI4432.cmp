@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-08-05 BZR 5054)-product   date = Di 24 Feb 2015 20:40:06 CET
+Cmp-Mod V01 Created by Cvpcb (2014-08-05 BZR 5054)-product   date = Fr 27 Feb 2015 01:19:54 CET
 
 BeginCmp
 TimeStamp = /54CDC26F;
@@ -172,7 +172,7 @@ BeginCmp
 TimeStamp = /54ECE2E3;
 Reference = P4;
 ValeurCmp = CONN_01X04;
-IdModule  = ;
+IdModule  = Connectors_Molex:Connector_Molex_PicoBlade_53398-0471;
 EndCmp
 
 BeginCmp
